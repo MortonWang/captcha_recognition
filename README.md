@@ -10,12 +10,12 @@ We provide some data divided into train,val,test folder under `./dataset`,you ca
 
 # **Model**
 
-We provide two trained model under `./model`,you can run **model_test.py** to load and obtain the accuracy of the appointed data without training.
+We provide two trained models under `./model`,you can run **model_test.py** to load and obtain the accuracy of the appointed data without training.
 
 # **Requirements**
-Python:2.7
-Torch:1.0.1
-captcha:0.3
+* Python:2.7
+* Torch:1.0.1
+* captcha:0.3
 
 # **Acknowledgement**
 This repo is modified from [pytorch-captcha-recognition](https://github.com/dee1024/pytorch-captcha-recognition)
